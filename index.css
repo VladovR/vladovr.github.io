@@ -1,5 +1,7 @@
 body {
 background-color: turquoise;
+display: flex;
+  justify-content: center;
 }
 
 .container {
