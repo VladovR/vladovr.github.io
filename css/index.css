@@ -1,14 +1,5 @@
 body {
 background-color: turquoise;
-display: flex;
-  justify-content: center;
+
 }
 
-.container {
-max-width: 650px;
-}
-
-#id {
-  color: white;
-text-align: center;
-}
